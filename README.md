@@ -103,7 +103,7 @@ All arrays are tightly packed for direct memory mapping.
 
 A detailed description of the method, including compression results and performance benchmarks, is available in:
 
-> Peter Mercell. *Codebook VDB: Vector-Quantized Volume Compression with Direct GPU Ray Marching.* 2026. [petermercell.com](https://petermercell.com)
+> Peter Mercell. *Codebook VDB: Vector-Quantized Volume Compression with Direct GPU Ray Marching.* 2026. [CVDB_Paper_Mercell_2026.docx](CVDB_Paper_Mercell_2026.docx)
 
 ## Acknowledgments
 
